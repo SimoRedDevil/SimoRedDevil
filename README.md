@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey there, I'm Mohamed 👋</h1>
 
 <p align="center">
   Fullstack Engineer • Student @ UM6P - 1337 Coding School • Economics Grad
