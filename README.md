@@ -52,6 +52,20 @@ I enjoy building clean, functional products from front to back, and I'm always l
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
+
+### 💡 How I Work
+
+- ⚡ **Fast delivery** — I move quickly from idea to working product without cutting corners on quality
+- 🤖 **AI-augmented workflow** — I'm comfortable using AI tools to speed up development, debug faster, and ship cleaner code
+- 🧩 **Full-cycle mindset** — from a Figma mockup to a deployed, working app, I can take a project from A to Z
+- 🗣️ **Clear communication** — I keep things simple and straightforward, whether I'm talking code or explaining it
+- 🎯 **Outcome-focused** — I care about what actually gets delivered, not just about writing code for the sake of it
+
+<p align="center"><i>If you're looking for someone who understands both the "why" and the "how" — let's talk.</i></p>
+
+---
+
 ### 📫 Let's connect
 
 <p align="left">
