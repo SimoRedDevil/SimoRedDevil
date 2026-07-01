@@ -52,21 +52,6 @@ I enjoy building clean, functional products from front to back, and I'm always l
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimoRedDevil&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimoRedDevil&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoRedDevil&layout=compact&hide_border=true" width="60%" />
-</p>
-
----
-
 ### 📫 Let's connect
 
 <p align="left">
